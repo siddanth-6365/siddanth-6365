@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-siddanth this side, an undergraduate student at JIIT Noida. I have strong foundation in web development and exploring new technologies. looking for an opportunity to grow and gain some experience. <br>
+Hi, I'm Siddhant, an undergraduate student at JIIT Noida. I have a strong foundation in web development, with experience in MERN stack. I'm also passionate about learning new technologies, and I'm always up-to-date on the latest trends.
+
+I'm looking for an opportunity to grow as a web developer and work on interesting projects.If you're looking for a talented and motivated web developer, I'd be happy to discuss my skills and experience with you. <br>
 
 
 ## 🌐 Socials:
@@ -17,8 +19,7 @@ siddanth this side, an undergraduate student at JIIT Noida. I have strong founda
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddanth-6365&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddanth-6365&icon=0&color=0)](https://visitcount.itsvg.in)
