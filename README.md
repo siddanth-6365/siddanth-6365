@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Siddhant, an undergraduate student at JIIT Noida. I have a strong foundation in web development, with experience in MERN stack. I'm also passionate about learning new technologies, and I'm always up-to-date on the latest trends.
+Hi, I'm Siddanth, an undergraduate student at JIIT Noida. I have a strong foundation in web development, with experience in MERN stack. I'm also passionate about learning new technologies, and I'm always up-to-date on the latest trends.
 
 I'm looking for an opportunity to grow as a web developer and work on interesting projects.If you're looking for a talented and motivated web developer, I'd be happy to discuss my skills and experience with you. <br>
-
+### portfolio : https://www.siddanth.live
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reddy_6365) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/siddanth.here/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddanth-reddy) 
