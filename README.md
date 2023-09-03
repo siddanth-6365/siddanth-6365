@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Siddanth, an undergraduate student at JIIT Noida. I have a strong foundation in web development, with experience in MERN stack. I'm also passionate about learning new technologies, and I'm always up-to-date on the latest trends.
-
-I'm looking for an opportunity to grow as a web developer and work on interesting projects.If you're looking for a talented and motivated web developer, I'd be happy to discuss my skills and experience with you. <br>
+i there! I'm Siddanth, an undergrad student and web development intern at a startup. I've gotten my hands dirty in the web development field, and I'm now committed to upskilling myself in various domains and problem-solving skills. I believe that learning is an ever-evolving journey, and I'm excited to see what the future holds
+<br>
 ### portfolio : https://www.siddanth.live
 <br>
 
