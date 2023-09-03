@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-i there! I'm Siddanth, an undergrad student and web development intern at a startup. I've gotten my hands dirty in the web development field, and I'm now committed to upskilling myself in various domains and problem-solving skills. I believe that learning is an ever-evolving journey, and I'm excited to see what the future holds
+Hi there! I'm Siddanth, an undergrad student and web development intern at a startup. I've gotten my hands dirty in the web development field, and I'm now committed to upskilling myself in various domains and problem-solving skills. I believe that learning is an ever-evolving journey, and I'm excited to see what the future holds
 <br>
 ### portfolio : https://www.siddanth.live
 <br>
