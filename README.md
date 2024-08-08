@@ -1,12 +1,9 @@
 ### Hi there 👋
-
-# 💫 About Me:
-Hi there! I'm Siddanth, an undergrad student and web development intern at a startup. I've gotten my hands dirty in the web development field, and I'm now committed to upskilling myself in various domains and problem-solving skills. I believe that learning is an ever-evolving journey, and I'm excited to see what the future holds
-<br>
+I'm Siddanth, an undergrad student and developer from india.
 
 - 🌱 I’m currently learning **DSA** along with **DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [siddanth.live](https://www.siddanth.xyz)
+- 👨‍💻 All of my projects are available at [siddanth.xyz](https://www.siddanth.xyz)
 
 - 💬 Ask me about **web dev,frontend and backend**
 
