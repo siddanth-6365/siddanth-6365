@@ -6,7 +6,7 @@ Hi there! I'm Siddanth, an undergrad student and web development intern at a sta
 
 - 🌱 I’m currently learning **DSA** along with **DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [siddanth.live](https://siddanth-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [siddanth.live](https://www.siddanth.xyz)
 
 - 💬 Ask me about **web dev,frontend and backend**
 
